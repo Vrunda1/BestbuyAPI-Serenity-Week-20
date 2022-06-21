@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Testing utility on the swagger application" skipped="0" tests="2" time="4.69" timestamp="2022-06-19T22:25:48.101+01:00[Europe/London]"><testcase name="Check if the version can be accessed by users"/><testcase name="Check if the healthcheck can be accessed by users"/></testsuite>
